@@ -1,0 +1,3 @@
+[submodule "TranslatorClient"]
+	path = TranslatorClient
+	url = https://github.com/BnnQ/TranslatorClient.git
